@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muril\\source\\repos\\ScreenSound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B0D66D-B590-408F-AB05-08BC48580A14}|ScreenSound.API\\ScreenSound.API.csproj|c:\\users\\muril\\source\\repos\\screensound\\screensound.api\\endpoints\\artistasextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B0D66D-B590-408F-AB05-08BC48580A14}|ScreenSound.API\\ScreenSound.API.csproj|solutionrelative:screensound.api\\endpoints\\artistasextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B0D66D-B590-408F-AB05-08BC48580A14}|ScreenSound.API\\ScreenSound.API.csproj|c:\\users\\muril\\source\\repos\\screensound\\screensound.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B0D66D-B590-408F-AB05-08BC48580A14}|ScreenSound.API\\ScreenSound.API.csproj|solutionrelative:screensound.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732E7719-C7A5-43BB-8774-95BEF488F45A}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|c:\\users\\muril\\source\\repos\\screensound\\screensound.shared.dados\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732E7719-C7A5-43BB-8774-95BEF488F45A}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|solutionrelative:screensound.shared.dados\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732E7719-C7A5-43BB-8774-95BEF488F45A}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|c:\\users\\muril\\source\\repos\\screensound\\screensound.shared.dados\\migrations\\20240625102820_iniciando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732E7719-C7A5-43BB-8774-95BEF488F45A}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|solutionrelative:screensound.shared.dados\\migrations\\20240625102820_iniciando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtistasExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\ScreenSound\\ScreenSound.API\\Endpoints\\ArtistasExtensions.cs",
+              "RelativeDocumentMoniker": "ScreenSound.API\\Endpoints\\ArtistasExtensions.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\ScreenSound\\ScreenSound.API\\Endpoints\\ArtistasExtensions.cs",
+              "RelativeToolTip": "ScreenSound.API\\Endpoints\\ArtistasExtensions.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwD8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:48:23.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\ScreenSound\\ScreenSound.API\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound.API\\Program.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\ScreenSound\\ScreenSound.API\\Program.cs",
+              "RelativeToolTip": "ScreenSound.API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:32:45.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScreenSoundContext.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\ScreenSound\\ScreenSound.Shared.Dados\\Banco\\ScreenSoundContext.cs",
+              "RelativeDocumentMoniker": "ScreenSound.Shared.Dados\\Banco\\ScreenSoundContext.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\ScreenSound\\ScreenSound.Shared.Dados\\Banco\\ScreenSoundContext.cs",
+              "RelativeToolTip": "ScreenSound.Shared.Dados\\Banco\\ScreenSoundContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:31:08.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240625102820_Iniciando.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\ScreenSound\\ScreenSound.Shared.Dados\\Migrations\\20240625102820_Iniciando.cs",
+              "RelativeDocumentMoniker": "ScreenSound.Shared.Dados\\Migrations\\20240625102820_Iniciando.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\ScreenSound\\ScreenSound.Shared.Dados\\Migrations\\20240625102820_Iniciando.cs",
+              "RelativeToolTip": "ScreenSound.Shared.Dados\\Migrations\\20240625102820_Iniciando.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:28:21.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
